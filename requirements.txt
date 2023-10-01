@@ -1,5 +1,5 @@
 streamlit
-pickle
+scikit-learn==1.0.2
 numpy
 tensorflow
 opencv-python-headless
