@@ -2,4 +2,7 @@ streamlit
 pickle
 numpy
 tensorflow
-cv2
+opencv-python-headless
+altair<5
+easyocr
+Pillow
